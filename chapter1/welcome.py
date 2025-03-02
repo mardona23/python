@@ -1,0 +1,6 @@
+print("welcome to the programming world \n")
+print(4+8)
+print("welcome to",end= "&")
+print("hello",4)
+name=input("Enter your name")
+print(name)

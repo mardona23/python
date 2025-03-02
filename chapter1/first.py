@@ -5,3 +5,5 @@ age=10
 print("my age is ",age)
 name="Adam_waheed"
 print("my name is ",name,"my age is",age )
+number=30
+print("I like to play football and my shirt number is",number)
