@@ -1,0 +1,12 @@
+a=7
+print(type(a))
+b=6.8
+print(type(b))
+c=False
+print(type(c))
+d="Adam"
+print(type(d))
+b=int(b)
+a=str(a)
+print(type(a))
+print(type(b))
