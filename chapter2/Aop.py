@@ -1,0 +1,9 @@
+n1=86
+n2=25
+print("addition is=",n1+n2)
+print("minus is=",n1-n2)
+print("multiplication is=",n1*n2)
+print("division is=",n1/n2)
+print("floor division is=",n1//n2)
+print("modules is=",n1%n2)
+print("exponent is=",n1**2)
