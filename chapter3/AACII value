@@ -1,0 +1,6 @@
+x=4
+y=7
+print(bin(x))
+print(bin(y))
+print(x&y)
+print(x|y)
