@@ -1,5 +1,5 @@
 import turtle
-turtle.Screen().bgcolor("orange")
+turtle.Screen().bgcolor("blue")
 turtle.Screen().setup(600,700)
 t=turtle.Turtle()
 t.forward(100)
