@@ -1,5 +1,5 @@
 def hello():
-    print("how are you")
+    print("what is your name")
 print(hello())
 def info():
     print("my name is",name)
