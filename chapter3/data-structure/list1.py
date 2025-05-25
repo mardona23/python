@@ -2,8 +2,8 @@ a1=[8,4,9,7,45]
 a2=["Adam","zeeshan"]
 print(len(a1))
 print(len(a2))
-print(a1[0])
-print(a2[0])
+print(a1[1])
+print(a2[1])
 print(a2[-2])
 print(a1[1:4])
 for i in a1:
